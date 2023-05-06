@@ -1,0 +1,823 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Entretenimiento", A&E
+http://jagertv.us:2999/skycaster/cambio/6
+#EXTINF: -1 tvg-id="I58.90898.schedulesdirect.org" tvg-name="A3S" tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg" group-title="Entretenimiento", A3S
+http://jagertv.us:2999/skycaster/cambio/13
+#EXTINF: -1 tvg-id="I20.90653.schedulesdirect.org" tvg-name="AMC" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg" group-title="Entretenimiento", AMC
+http://jagertv.us:2999/skycaster/cambio/16
+#EXTINF: -1 tvg-id="I43.90309.schedulesdirect.org" tvg-name="ANTENA 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="Entretenimiento", ANTENA 3
+http://jagertv.us:2999/skycaster/cambio/18
+#EXTINF: -1 tvg-id="I79.72534.schedulesdirect.org" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg" group-title="Entretenimiento", AXN
+http://jagertv.us:2999/skycaster/cambio/19
+#EXTINF: -1 tvg-id="I64.87047.schedulesdirect.org" tvg-name="AXN WHITE" tvg-logo="https://pbs.twimg.com/profile_images/1334801686309838850/zH4L2hgp.jpg" group-title="Entretenimiento", AXN WHITE
+http://jagertv.us:2999/skycaster/cambio/20
+#EXTINF: -1 tvg-id="I164.74906.schedulesdirect.org" tvg-name="COMEDY CENTRAL" tvg-logo="https://storybaker.co/wp-content/uploads/2019/05/ccentral.jpg" group-title="Entretenimiento", COMEDY CENTRAL
+http://jagertv.us:2999/skycaster/cambio/40
+#EXTINF: -1 tvg-id="I192.46608.schedulesdirect.org" tvg-name="DISCOVERY TURBO" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="Entretenimiento", DISCOVERY TURBO
+http://jagertv.us:2999/skycaster/cambio/52
+#EXTINF: -1 tvg-id="I200.55980.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://forounivers.com/uploads/monthly_2018_10/large.Distrito_comedia2018.png.2134b7cf7371cfacfd887b32228d20ec.png" group-title="Entretenimiento", DISTRITO COMEDIA
+http://jagertv.us:2999/skycaster/cambio/57
+#EXTINF: -1 tvg-id="I236.10989.zap2it.com" tvg-name="E! Entertaiment" tvg-logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="Entretenimiento", E! Entertaiment
+http://jagertv.us:2999/skycaster/cambio/58
+#EXTINF: -1 tvg-name="EL GARAGE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Entretenimiento", EL GARAGE
+http://jagertv.us:2999/skycaster/cambio/59
+#EXTINF: -1 tvg-id="I242.45910.schedulesdirect.org" tvg-name="EL GOURMET" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Entretenimiento", EL GOURMET
+http://jagertv.us:2999/skycaster/cambio/60
+#EXTINF: -1 tvg-id="I442.65064.zap2it.com" tvg-name="ESTRELLA TV" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg" group-title="Entretenimiento", ESTRELLA TV
+http://jagertv.us:2999/skycaster/cambio/66
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entretenimiento", FOOD NETWORK
+http://jagertv.us:2999/skycaster/cambio/67
+#EXTINF: -1 tvg-id="I241.87056.schedulesdirect.org" tvg-name="FOX" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg" group-title="Entretenimiento", FOX
+http://jagertv.us:2999/skycaster/cambio/69
+#EXTINF: -1 tvg-id="I295.101732.schedulesdirect.org" tvg-name="FOX LIFE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="Entretenimiento", FOX LIFE
+http://jagertv.us:2999/skycaster/cambio/74
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="Entretenimiento", FX
+http://jagertv.us:2999/skycaster/cambio/80
+#EXTINF: -1 tvg-id="I258.70253.zap2it.com" tvg-name="FXM" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="Entretenimiento", FXM
+http://jagertv.us:2999/skycaster/cambio/81
+#EXTINF: -1 tvg-id="I254.17672.schedulesdirect.org" tvg-name="GALA TV" tvg-logo="https://logopond.com/logos/b65f4139bec8707292f37b13d24c7081.png" group-title="Entretenimiento", GALA TV
+http://jagertv.us:2999/skycaster/cambio/82
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="GLITZ" tvg-logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="Entretenimiento", GLITZ
+http://jagertv.us:2999/skycaster/cambio/83
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="Entretenimiento", HOLA TV
+http://jagertv.us:2999/skycaster/cambio/93
+#EXTINF: -1 tvg-id="I243.90682.schedulesdirect.org" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="Entretenimiento", LIFETIME
+http://jagertv.us:2999/skycaster/cambio/95
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MAS CHIC" tvg-logo="https://pbs.twimg.com/profile_images/616231967407906816/hFYp8Jq9_400x400.jpg" group-title="Entretenimiento", MAS CHIC
+http://jagertv.us:2999/skycaster/cambio/96
+#EXTINF: -1 tvg-id="I444.61776.zap2it.com" tvg-name="PASIONES" tvg-logo="https://cdn.mitvstatic.com/channels/1769eb87-a655-4ab6-99f5-343640682ce5_m.jpg" group-title="Entretenimiento", PASIONES
+http://jagertv.us:2999/skycaster/cambio/108
+#EXTINF: -1 tvg-name="SHOWTIME" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="Entretenimiento", SHOWTIME
+http://jagertv.us:2999/skycaster/cambio/111
+#EXTINF: -1 tvg-id="sony.us" tvg-name="SONY" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_m.png" group-title="Entretenimiento", SONY
+http://jagertv.us:2999/skycaster/cambio/112
+#EXTINF: -1 tvg-id="I239.16108.zap2it.com" tvg-name="Sundance" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/01/Sundance-TV.png" group-title="Entretenimiento", Sundance
+http://jagertv.us:2999/skycaster/cambio/117
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TBS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png" group-title="Entretenimiento", TBS
+http://jagertv.us:2999/skycaster/cambio/119
+#EXTINF: -1 tvg-name="TNT Series" tvg-logo="https://assets.elimparcial.com/__export/1562611313007/sites/elimparcial/img/2019/07/08/tnt-series_crop1562611186225.png_423682103.png" group-title="Entretenimiento", TNT Series
+http://jagertv.us:2999/skycaster/cambio/365
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png" group-title="Entretenimiento", WARNER
+http://jagertv.us:2999/skycaster/cambio/366
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TruTV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png" group-title="Entretenimiento", TruTV
+http://jagertv.us:2999/skycaster/cambio/367
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Unicable" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="Entretenimiento", Unicable
+http://jagertv.us:2999/skycaster/cambio/368
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento", TLnovelas
+http://jagertv.us:2999/skycaster/cambio/370
+#EXTINF: -1 tvg-name="LIFE TV" tvg-logo="https://pbs.twimg.com/profile_images/794399302655283200/KXnJBDp9_400x400.jpg" group-title="Entretenimiento", LIFE TV
+http://jagertv.us:2999/skycaster/cambio/374
+#EXTINF: -1 tvg-name="SONY COMPETENCIAS" tvg-logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg" group-title="Entretenimiento", SONY COMPETENCIAS
+http://jagertv.us:2999/skycaster/cambio/1305
+#EXTINF: -1 tvg-name="SONY COMEDIAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Entretenimiento", SONY COMEDIAS
+http://jagertv.us:2999/skycaster/cambio/1306
+#EXTINF: -1 tvg-name="SONY NOVELAS" tvg-logo="https://www.icomedios.com/sites/default/files/1024px-Canal_Sony_HD_logo.png" group-title="Entretenimiento", SONY NOVELAS
+http://jagertv.us:2999/skycaster/cambio/1307
+#EXTINF: -1 tvg-id="I218.14899.zap2it.com" tvg-name="GOLF CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/982436045001240576/_hR6LA3b_400x400.jpg" group-title="DEPORTES", GOLF CHANNEL
+http://jagertv.us:2999/skycaster/cambio/12
+#EXTINF: -1 tvg-id="I103.59724.schedulesdirect.org" tvg-name="AFIZZIONADOS" tvg-logo="https://pbs.twimg.com/profile_images/1315369786906468354/7PjFLwZP.jpg" group-title="DEPORTES", AFIZZIONADOS
+http://jagertv.us:2999/skycaster/cambio/15
+#EXTINF: -1 tvg-id="I81.34863.schedulesdirect.org" tvg-name="AYM SPORTS" tvg-logo="https://img4.wikia.nocookie.net/__cb20130608195911/logopedia/images/5/52/165104_149063901812135_6685373_n.jpg" group-title="DEPORTES", AYM SPORTS
+http://jagertv.us:2999/skycaster/cambio/21
+#EXTINF: -1 tvg-id="goltv.us" tvg-name="GOL TV" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="DEPORTES", GOL TV
+http://jagertv.us:2999/skycaster/cambio/84
+#EXTINF: -1 tvg-name="TELETRAK" tvg-logo="https://3.bp.blogspot.com/-AZRvYmplcVs/WU_wZDYxcxI/AAAAAAAABkk/lYdqLUyjbR8dpbcQS664A0Bm9f_2194_ACLcBGAs/s1600/Teletrak.jpg" group-title="DEPORTES", TELETRAK
+http://jagertv.us:2999/skycaster/cambio/233
+#EXTINF: -1 tvg-name="WINSPORTS PLUS" tvg-logo="https://www.futbolete.com/wp-content/uploads/2019/12/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600-1.jpg" group-title="DEPORTES", WINSPORTS PLUS
+http://jagertv.us:2999/skycaster/cambio/267
+#EXTINF: -1 tvg-id="I464.75176.zap2it.com" tvg-name="USA | TUDN MX" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="DEPORTES", USA | TUDN MX
+http://jagertv.us:2999/skycaster/cambio/291
+#EXTINF: -1 tvg-id="I388.81448.schedulesdirect.org" tvg-name="Fight Networ" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/e1/27/d8/e127d8f2-012e-02b6-5cb2-db3f830b5746/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg" group-title="DEPORTES", Fight Networ
+http://jagertv.us:2999/skycaster/cambio/298
+#EXTINF: -1 tvg-id="elevensports.us" tvg-name="Eleven Sports" tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_400x400.jpg" group-title="DEPORTES", Eleven Sports
+http://jagertv.us:2999/skycaster/cambio/309
+#EXTINF: -1 tvg-id="I696.63138.zap2it.com" tvg-name="NBC Sports Bay Area" tvg-logo="https://content.production.cdn.art19.com/images/3c/cd/a7/63/3ccda763-e627-4737-b253-b08ba26e6034/51aec1b031adc7acab39dc595c37267185b6d3d70336b6a8135d223ffd490853fd2b31be8f5223bc2d63c88041790a9ce18021aefa6cfdee29438db5453a4ebf.jpeg" group-title="DEPORTES", NBC Sports Bay Area
+http://jagertv.us:2999/skycaster/cambio/310
+#EXTINF: -1 tvg-id="I630.49198.zap2it.com" tvg-name="NBC Sports Boston" tvg-logo="https://art19-production.s3-us-west-1.amazonaws.com/images/1a/d7/b7/54/1ad7b754-a2f2-499d-bd34-81a690e0a72c/e04c5f141a78e9c83a2596c4ff3391ec6098f63b2f61ea277fdcbb511737172b20ceead21a6986d2e949b7b9f4c50ab84318788389380b443cf7894c4fe7347a.jpeg" group-title="DEPORTES", NBC Sports Boston
+http://jagertv.us:2999/skycaster/cambio/311
+#EXTINF: -1 tvg-id="I698.73564.zap2it.com" tvg-name="NBC Sports California" tvg-logo="https://cms.nhl.bamgrid.com/images/photos/288216018/1024x576/cut.jpg" group-title="DEPORTES", NBC Sports California
+http://jagertv.us:2999/skycaster/cambio/312
+#EXTINF: -1 tvg-id="I665.44905.zap2it.com" tvg-name="NBC Sports Chicago" tvg-logo="https://pbs.twimg.com/profile_images/929723420094468096/YMDRL7UN_400x400.jpg" group-title="DEPORTES", NBC Sports Chicago
+http://jagertv.us:2999/skycaster/cambio/313
+#EXTINF: -1 tvg-name="NBC Sports Northwest" tvg-logo="https://pbs.twimg.com/profile_images/929758074012778496/hWSKZmVV_400x400.jpg" group-title="DEPORTES", NBC Sports Northwest
+http://jagertv.us:2999/skycaster/cambio/314
+#EXTINF: -1 tvg-id="I370.17596.zap2it.com" tvg-name="NBC Sports Philadelphia" tvg-logo="https://pbs.twimg.com/profile_images/929703795562606593/rcRs1pMs_400x400.jpg" group-title="DEPORTES", NBC Sports Philadelphia
+http://jagertv.us:2999/skycaster/cambio/315
+#EXTINF: -1 tvg-id="I642.32537.zap2it.com" tvg-name="NBC Sports Washington" tvg-logo="https://pbs.twimg.com/profile_images/929940820106543104/lm8kP157.jpg" group-title="DEPORTES", NBC Sports Washington
+http://jagertv.us:2999/skycaster/cambio/316
+#EXTINF: -1 tvg-name="NESN SPORT" tvg-logo="https://image.freepik.com/vector-gratis/titular-live-sports-news-fondo-mapa-mundial-punteado-azul_175838-367.jpg" group-title="DEPORTES", NESN SPORT
+http://jagertv.us:2999/skycaster/cambio/325
+#EXTINF: -1 tvg-id="I221.16365.zap2it.com" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464754425/ys5pzhl5bucqzeofz0fc.png" group-title="DEPORTES", CBS SPORTS NETWORK
+http://jagertv.us:2999/skycaster/cambio/326
+#EXTINF: -1 tvg-name="COSTA RICA | TIGO SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="DEPORTES", COSTA RICA | TIGO SPORTS
+http://jagertv.us:2999/skycaster/cambio/331
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TVC Deportes" tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc-640x320.jpg" group-title="DEPORTES", TVC Deportes
+http://jagertv.us:2999/skycaster/cambio/347
+#EXTINF: -1 tvg-id="I469.111046.zap2it.com" tvg-name="TyC Sports" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTES", TyC Sports
+http://jagertv.us:2999/skycaster/cambio/348
+#EXTINF: -1 tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", Win Sports
+http://jagertv.us:2999/skycaster/cambio/349
+#EXTINF: -1 tvg-id="612dts2.cl" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="DEPORTES", DIRECTV SPORTS 2
+http://jagertv.us:2999/skycaster/cambio/350
+#EXTINF: -1 tvg-id="201odtv.cl" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://www.ver-television.online/images/directvsportsplus_.png" group-title="DEPORTES", DIRECTV SPORTS 1
+http://jagertv.us:2999/skycaster/cambio/351
+#EXTINF: -1 tvg-id="179dts+.cl" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.ecuapaginas.com/wp-content/uploads/2019/10/directv-sports-1024x576.jpg" group-title="DEPORTES", DIRECTV SPORTS +
+http://jagertv.us:2999/skycaster/cambio/352
+#EXTINF: -1 tvg-id="I13.83162.schedulesdirect.org" tvg-name="Adrenalina Sport Network" tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES", Adrenalina Sport Network
+http://jagertv.us:2999/skycaster/cambio/353
+#EXTINF: -1 tvg-id="TOROS" tvg-name="TOROS TV" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="DEPORTES", TOROS TV
+http://jagertv.us:2999/skycaster/cambio/372
+#EXTINF: -1 tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="DEPORTES", REAL MADRID TV
+http://jagertv.us:2999/skycaster/cambio/373
+#EXTINF: -1 tvg-id="I263.90356.schedulesdirect.org" tvg-name="GOL PERU" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES", GOL PERU
+http://jagertv.us:2999/skycaster/cambio/686
+#EXTINF: -1 tvg-id="M+DEPORTESHD" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="DEPORTES", MOVISTAR DEPORTES
+http://jagertv.us:2999/skycaster/cambio/688
+#EXTINF: -1 tvg-id="wapa2deportes.us" tvg-name="WAPA 2" tvg-logo="https://res.cloudinary.com/sportstech/image/upload/v1468854420/w6kut87l9xyfm9clurrv.jpg" group-title="DEPORTES", WAPA 2
+http://jagertv.us:2999/skycaster/cambio/704
+#EXTINF: -1 tvg-id="I150.82541.schedulesdirect.org" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FS1
+http://jagertv.us:2999/skycaster/cambio/1303
+#EXTINF: -1 tvg-id="redbulltv.us" tvg-name="Red Bull TV" tvg-logo="https://i.ytimg.com/vi/NQpxt8FzNkc/maxresdefault.jpg" group-title="DEPORTES", Red Bull TV
+http://jagertv.us:2999/skycaster/cambio/1304
+#EXTINF: -1 tvg-id="foxsports2.us" tvg-name="FS2" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png" group-title="DEPORTES", FS2
+http://jagertv.us:2999/skycaster/cambio/1308
+#EXTINF: -1 tvg-id="fxdeportes.us" tvg-name="Fox Deportes" tvg-logo="https://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
+http://jagertv.us:2999/skycaster/cambio/1383
+#EXTINF: -1 tvg-id="I621.66879.zap2it.com" tvg-name="FOX Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/FSPlus_New2011.jpg" group-title="DEPORTES", FOX Soccer Plus
+http://jagertv.us:2999/skycaster/cambio/1385
+#EXTINF: -1 tvg-id="I677.72861.zap2it.com" tvg-name="Longhorn Network" tvg-logo="https://pbs.twimg.com/profile_images/1474779476/11070222TBG_LHN128x128v2_400x400.jpg" group-title="DEPORTES", Longhorn Network
+http://jagertv.us:2999/skycaster/cambio/1408
+#EXTINF: -1 tvg-id="nbc4knep2.us" tvg-name="NBCSN" tvg-logo="https://i.pinimg.com/originals/f3/3d/f9/f33df94871bd3bf81245f30d0c36a112.jpg" group-title="DEPORTES", NBCSN
+http://jagertv.us:2999/skycaster/cambio/1430
+#EXTINF: -1 tvg-id="I611.89535.zap2it.com" tvg-name="SEC Network" tvg-logo="https://ukathletics.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2017/8/8/SEC_Network_logo_thumb_295x346_36624.jpg" group-title="DEPORTES", SEC Network
+http://jagertv.us:2999/skycaster/cambio/1446
+#EXTINF: -1 tvg-id="I602.21345.zap2it.com" tvg-name="TVG" tvg-logo="https://image.roku.com/developer_channels/prod/e2a62f4c55e6608943ed31dacd5309fed24f60304f6fa8c78e57ecf1d5c54623.png" group-title="DEPORTES", TVG
+http://jagertv.us:2999/skycaster/cambio/1468
+#EXTINF: -1 tvg-name="Wolrd Fishing Network" tvg-logo="https://i.ytimg.com/vi/Ou266-JxPIc/maxresdefault.jpg" group-title="DEPORTES", Wolrd Fishing Network
+http://jagertv.us:2999/skycaster/cambio/1476
+#EXTINF: -1 tvg-id="I1446.91306.schedulesdirect.org" tvg-name="WWE Network" tvg-logo="https://solowrestling.mundodeportivo.com/uploads/RESEM85729Network.jpg" group-title="DEPORTES", WWE Network
+http://jagertv.us:2999/skycaster/cambio/1478
+#EXTINF: -1 tvg-id="olympicchannel.us" tvg-name=" OLYMPIC CHANNEL" tvg-logo="https://www.nbcsports.com/sites/nbcsports.com/files/oly-channel-slate.jpg" group-title="DEPORTES", OLYMPIC CHANNEL
+http://jagertv.us:2999/skycaster/cambio/1501
+#EXTINF: -1 tvg-id="pac12washington.us" tvg-name="Pac-12 Washington" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/619L55cJaHL._AC_SX425_.jpg" group-title="DEPORTES", Pac-12 Washington
+http://jagertv.us:2999/skycaster/cambio/1514
+#EXTINF: -1 tvg-id="pac12losangeles.us" tvg-name="USA | Pac-12 Los Angeles" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/882cc84/2147483647/strip/true/crop/2048x1365+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbf%2Ff1%2F4bc998674a19bc6ec979ddcb11db%2Fpac12.png" group-title="DEPORTES", USA | Pac-12 Los Angeles
+http://jagertv.us:2999/skycaster/cambio/1515
+#EXTINF: -1 tvg-id="pac12bayarea.us" tvg-name="USA | Pac-12 Bay Area" tvg-logo="https://sport-tv-guide.live/images/stations/a1879.png" group-title="DEPORTES", USA | Pac-12 Bay Area
+http://jagertv.us:2999/skycaster/cambio/1516
+#EXTINF: -1 tvg-id="pac12arizona.us" tvg-name="USA | Pac-12 Arizona" tvg-logo="https://assets.sbnation.com/assets/648601/Arizona_Pac-12_inverse.jpg" group-title="DEPORTES", USA | Pac-12 Arizona
+http://jagertv.us:2999/skycaster/cambio/1517
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TNT SPORTS MX" tvg-logo="https://www.tvguia.co/wp-content/uploads/2021/01/TNT-Sports-Latam.jpg" group-title="DEPORTES", TNT SPORTS MX
+http://jagertv.us:2999/skycaster/cambio/19743
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="BARCA TV" group-title="DEPORTES", BARCA TV
+http://jagertv.us:2999/skycaster/cambio/20500
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="M. LA LIGA" tvg-logo="http://bulltv.us/logoscanales/mlaliga.jpg" group-title="DEPORTES", M. LA LIGA
+http://jagertv.us:2999/skycaster/cambio/20586
+#EXTINF: -1 tvg-name="EL CANAL DEL FUTBOL" tvg-logo="http://bulltv.us/logoscanales/events/elcanaldelfutbol.png" group-title="DEPORTES", EL CANAL DEL FUTBOL
+http://jagertv.us:2999/skycaster/cambio/24257
+#EXTINF: -1 tvg-id="1631tntshd.cl" tvg-name="ESTADIO TNT SPORTS CHILE" tvg-logo="https://futbolete.com/wp-content/uploads/2021/06/TNT-Sports-en-Brasil-transmitira-amistosos-de-selecciones-europeas-en-TikTok-1200x900.jpg" group-title="DEPORTES", ESTADIO TNT SPORTS CHILE
+http://jagertv.us:2999/skycaster/cambio/25205
+#EXTINF: -1 tvg-id="I328.114091.schedulesdirect.org" tvg-name="M. LA LIGA TV BAR" tvg-logo="http://bullplayer.us/logoscanales/events/LALIGATVBAR.jpg" group-title="DEPORTES", M. LA LIGA TV BAR
+http://jagertv.us:2999/skycaster/cambio/27960
+#EXTINF: -1 tvg-id="mavtv.us" tvg-name="URUGUAY | VTV PLUS" group-title="DEPORTES", URUGUAY | VTV PLUS
+http://jagertv.us:2999/skycaster/cambio/36140
+#EXTINF: -1 tvg-id="I43.77375.zap2it.com" tvg-name="Spectrum Sportsnet LA Dodgers" group-title="DEPORTES", Spectrum Sportsnet LA Dodgers
+http://jagertv.us:2999/skycaster/cambio/36277
+#EXTINF: -1 tvg-id="I411.1745.tvguide.co.uk" tvg-name="Eurosport 2" group-title="DEPORTES", Eurosport 2
+http://jagertv.us:2999/skycaster/cambio/36285
+#EXTINF: -1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="USA | AT&T Sportsnet South West" group-title="DEPORTES", USA | AT&T Sportsnet South West
+http://jagertv.us:2999/skycaster/cambio/36287
+#EXTINF: -1 tvg-id="atandtsportsnetrockymountain.us" tvg-name="USA | AT&T Sportsnet Rocky Mountain" group-title="DEPORTES", USA | AT&T Sportsnet Rocky Mountain
+http://jagertv.us:2999/skycaster/cambio/36288
+#EXTINF: -1 tvg-id="atandtsportsnetpittsburgh.us" tvg-name="USA | AT&T Sportsnet Pittsburgh" group-title="DEPORTES", USA | AT&T Sportsnet Pittsburgh
+http://jagertv.us:2999/skycaster/cambio/36289
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="USA | GINX eSports" group-title="DEPORTES", USA | GINX eSports
+http://jagertv.us:2999/skycaster/cambio/36291
+#EXTINF: -1 tvg-name="SporTV HD BRA" group-title="DEPORTES", SporTV HD BRA
+http://jagertv.us:2999/skycaster/cambio/36313
+#EXTINF: -1 tvg-name="SporTV 2 HD BRA" group-title="DEPORTES", SporTV 2 HD BRA
+http://jagertv.us:2999/skycaster/cambio/36314
+#EXTINF: -1 tvg-id="band.br" tvg-name="Band Sports BRA" group-title="DEPORTES", Band Sports BRA
+http://jagertv.us:2999/skycaster/cambio/36315
+#EXTINF: -1 tvg-id="I152.84479.schedulesdirect.org" tvg-name="Claro Sports  mx FHD " group-title="DEPORTES", Claro Sports  mx FHD
+http://jagertv.us:2999/skycaster/cambio/36317
+#EXTINF: -1 tvg-name="SuperSport Variety 1" group-title="DEPORTES", SuperSport Variety 1
+http://jagertv.us:2999/skycaster/cambio/36319
+#EXTINF: -1 tvg-name="SuperSport Variety 2" group-title="DEPORTES", SuperSport Variety 2
+http://jagertv.us:2999/skycaster/cambio/36320
+#EXTINF: -1 tvg-name="SuperSport Variety 3" group-title="DEPORTES", SuperSport Variety 3
+http://jagertv.us:2999/skycaster/cambio/36321
+#EXTINF: -1 tvg-name="SuperSport Variety 4" group-title="DEPORTES", SuperSport Variety 4
+http://jagertv.us:2999/skycaster/cambio/36322
+#EXTINF: -1 tvg-name="Premiere 1 HD BRA" group-title="DEPORTES", Premiere 1 HD BRA
+http://jagertv.us:2999/skycaster/cambio/36564
+#EXTINF: -1 tvg-name="Premiere 3  BRA" group-title="DEPORTES", Premiere 3  BRA
+http://jagertv.us:2999/skycaster/cambio/36565
+#EXTINF: -1 tvg-name="Premiere 4 BRA" group-title="DEPORTES", Premiere 4 BRA
+http://jagertv.us:2999/skycaster/cambio/36566
+#EXTINF: -1 tvg-name=" Premiere 5 HD BRA" group-title="DEPORTES", Premiere 5 HD BRA
+http://jagertv.us:2999/skycaster/cambio/36567
+#EXTINF: -1 tvg-name="Premiere 7 BRA" group-title="DEPORTES", Premiere 7 BRA
+http://jagertv.us:2999/skycaster/cambio/36568
+#EXTINF: -1 tvg-id="fubosportsnetwork.us" tvg-name="FUBO SPORTS NETWORK" group-title="DEPORTES", FUBO SPORTS NETWORK
+http://jagertv.us:2999/skycaster/cambio/36618
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="UFC Fight Pass" tvg-logo="http://vodapps.us:3724/n3WC0nt3/VOD/.MTV/UFC-LOGO.png" group-title="DEPORTES", UFC Fight Pass
+http://jagertv.us:2999/skycaster/cambio/59187
+#EXTINF: -1 tvg-id="I282.57394.zap2it.com" tvg-name="ANIMAL PLANET" tvg-logo="https://www.tv.maocal.com/images/animal.png" group-title="CULTURA", ANIMAL PLANET
+http://jagertv.us:2999/skycaster/cambio/17
+#EXTINF: -1 tvg-id="I177.96307.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="CULTURA", DISCOVERY CHANNEL
+http://jagertv.us:2999/skycaster/cambio/42
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HGTV" tvg-logo="http://bulltv.us/logoscanales/HGTV.png" group-title="CULTURA", HGTV
+http://jagertv.us:2999/skycaster/cambio/43
+#EXTINF: -1 tvg-id="I294.67749.zap2it.com" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://pbs.twimg.com/profile_images/694917796208070660/yLTulGF__400x400.png" group-title="CULTURA", DISCOVERY FAMILIA
+http://jagertv.us:2999/skycaster/cambio/45
+#EXTINF: -1 tvg-id="I181.97928.schedulesdirect.org" tvg-name="DISCOVERY H&H" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="CULTURA", DISCOVERY H&H
+http://jagertv.us:2999/skycaster/cambio/46
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID" tvg-logo="https://pbs.twimg.com/profile_images/890679019758342144/t1ifF4LF_400x400.jpg" group-title="CULTURA", DISCOVERY ID
+http://jagertv.us:2999/skycaster/cambio/47
+#EXTINF: -1 tvg-id="I190.65940.schedulesdirect.org" tvg-name="DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="CULTURA", DISCOVERY THEATER
+http://jagertv.us:2999/skycaster/cambio/50
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY TLC" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="CULTURA", DISCOVERY TLC
+http://jagertv.us:2999/skycaster/cambio/51
+#EXTINF: -1 tvg-id="I193.66488.schedulesdirect.org" tvg-name="DISCOVERY WORLD" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="CULTURA", DISCOVERY WORLD
+http://jagertv.us:2999/skycaster/cambio/53
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HISTORY 2" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="CULTURA", HISTORY 2
+http://jagertv.us:2999/skycaster/cambio/91
+#EXTINF: -1 tvg-id="I443.43362.zap2it.com" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="CULTURA", HISTORY CHANNEL
+http://jagertv.us:2999/skycaster/cambio/92
+#EXTINF: -1 tvg-id="I435.72449.zap2it.com" tvg-name="NAT GEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="CULTURA", NAT GEO MUNDO
+http://jagertv.us:2999/skycaster/cambio/102
+#EXTINF: -1 tvg-id="I283.67331.zap2it.com" tvg-name="NAT GEO WILD" tvg-logo="https://4.bp.blogspot.com/-NEHF7mv2dQc/WG2gPGTgs3I/AAAAAAAABoc/yxTUmMZzghI3tKxvGyQZsLSJIB8CB4SVgCLcB/s1600/maxresdefault.jpg" group-title="CULTURA", NAT GEO WILD
+http://jagertv.us:2999/skycaster/cambio/103
+#EXTINF: -1 tvg-id="I448.88533.schedulesdirect.org" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://pbs.twimg.com/profile_images/1277658125479403520/AOFAWNvv.jpg" group-title="CULTURA", NATIONAL GEOGRAPHIC
+http://jagertv.us:2999/skycaster/cambio/104
+#EXTINF: -1 tvg-id="I189.46610.schedulesdirect.org" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="CULTURA", DISCOVERY SCIENCE
+http://jagertv.us:2999/skycaster/cambio/280
+#EXTINF: -1 tvg-id="I134.95687.schedulesdirect.org" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="CINEMA PREMIUM", AZ CINEMA
+http://jagertv.us:2999/skycaster/cambio/22
+#EXTINF: -1 tvg-id="I624.16435.schedulesdirect.org" tvg-name="CINECANAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="CINEMA PREMIUM", CINECANAL
+http://jagertv.us:2999/skycaster/cambio/36
+#EXTINF: -1 tvg-id="I125.15296.schedulesdirect.org" tvg-name="CINELATINO" tvg-logo="https://lasemanadelsur.com/wp-content/uploads/2018/10/cine_02-web.jpg" group-title="CINEMA PREMIUM", CINELATINO
+http://jagertv.us:2999/skycaster/cambio/37
+#EXTINF: -1 tvg-id="I173.16288.schedulesdirect.org" tvg-name="DE PELICULA" tvg-logo="https://pbs.twimg.com/profile_images/958147557150089216/Jiah4faM_400x400.jpg" group-title="CINEMA PREMIUM", DE PELICULA
+http://jagertv.us:2999/skycaster/cambio/41
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="UNIVERSAL CRIME" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CINEMA PREMIUM", UNIVERSAL CRIME
+http://jagertv.us:2999/skycaster/cambio/70
+#EXTINF: -1 tvg-id="I0.122767.schedulesdirect.org" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="CINEMA PREMIUM", UNIVERSAL CINEMA
+http://jagertv.us:2999/skycaster/cambio/71
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="UNIVERSAL REALITY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINEMA PREMIUM", UNIVERSAL REALITY
+http://jagertv.us:2999/skycaster/cambio/73
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png" group-title="CINEMA PREMIUM", UNIVERSAL PREMIERE
+http://jagertv.us:2999/skycaster/cambio/75
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="CINEMA PREMIUM", GOLDEN EDGE
+http://jagertv.us:2999/skycaster/cambio/85
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="GOLDEN PLUS" tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="CINEMA PREMIUM", GOLDEN PLUS
+http://jagertv.us:2999/skycaster/cambio/86
+#EXTINF: -1 tvg-id="I313.59837.schedulesdirect.org" tvg-name="HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png" group-title="CINEMA PREMIUM", HBO
+http://jagertv.us:2999/skycaster/cambio/87
+#EXTINF: -1 tvg-id="I632.68140.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CINEMA PREMIUM", HBO 2
+http://jagertv.us:2999/skycaster/cambio/88
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINEMA PREMIUM", HBO FAMILY
+http://jagertv.us:2999/skycaster/cambio/89
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINEMA PREMIUM", HBO PLUS
+http://jagertv.us:2999/skycaster/cambio/90
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINEMA PREMIUM", HBO XTREME
+http://jagertv.us:2999/skycaster/cambio/97
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINEMA PREMIUM", HBO POP
+http://jagertv.us:2999/skycaster/cambio/98
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SPACE" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png" group-title="CINEMA PREMIUM", SPACE
+http://jagertv.us:2999/skycaster/cambio/113
+#EXTINF: -1 tvg-id="I350.12719.schedulesdirect.org" tvg-name="STARZ" tvg-logo="https://sm.pcmag.com/pcmag_uk/review/s/starz-revi/starz-review_33md.png" group-title="CINEMA PREMIUM", STARZ
+http://jagertv.us:2999/skycaster/cambio/114
+#EXTINF: -1 tvg-id="I426.102905.zap2it.com" tvg-name="STARZ ENCORE" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg" group-title="CINEMA PREMIUM", STARZ ENCORE
+http://jagertv.us:2999/skycaster/cambio/115
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="CINEMA PREMIUM", STUDIO UNIVERSAL
+http://jagertv.us:2999/skycaster/cambio/116
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SYFY" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png" group-title="CINEMA PREMIUM", SYFY
+http://jagertv.us:2999/skycaster/cambio/118
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TCM" tvg-logo="http://sincroguia-tv.expansion.com/uploads/images/t/c/m/tcm.jpg" group-title="CINEMA PREMIUM", TCM
+http://jagertv.us:2999/skycaster/cambio/120
+#EXTINF: -1 tvg-name="USA -L | CINE SUREÑO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINEMA PREMIUM", USA -L | CINE SUREÑO
+http://jagertv.us:2999/skycaster/cambio/237
+#EXTINF: -1 tvg-name="USA -L | TOP CINE " tvg-logo="https://bandnatal.files.wordpress.com/2012/02/top-cine.jpg" group-title="CINEMA PREMIUM", USA -L | TOP CINE
+http://jagertv.us:2999/skycaster/cambio/238
+#EXTINF: -1 tvg-name="USA -L | HORRORIFY" tvg-logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg" group-title="CINEMA PREMIUM", USA -L | HORRORIFY
+http://jagertv.us:2999/skycaster/cambio/240
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TNT" tvg-logo="https://pbs.twimg.com/profile_images/1330728097348538368/i6cFKl8w_400x400.jpg" group-title="CINEMA PREMIUM", TNT
+http://jagertv.us:2999/skycaster/cambio/243
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png" group-title="CINEMA PREMIUM", GOLDEN
+http://jagertv.us:2999/skycaster/cambio/244
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="CINEMA PREMIUM", GOLDEN PREMIER
+http://jagertv.us:2999/skycaster/cambio/245
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO SIGNATURE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINEMA PREMIUM", HBO SIGNATURE
+http://jagertv.us:2999/skycaster/cambio/246
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png" group-title="CINEMA PREMIUM", UNIVERSAL COMEDY
+http://jagertv.us:2999/skycaster/cambio/247
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://pbs.twimg.com/profile_images/49045732/logo-universal-channel.jpg" group-title="CINEMA PREMIUM", Universal Channel
+http://jagertv.us:2999/skycaster/cambio/248
+#EXTINF: -1 tvg-id="I884.44479.schedulesdirect.org" tvg-name="CGTN ESPANOL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Mhwckj1mL.jpg" group-title="CINEMA PREMIUM", CGTN ESPANOL
+http://jagertv.us:2999/skycaster/cambio/249
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO MUNDI" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="CINEMA PREMIUM", HBO MUNDI
+http://jagertv.us:2999/skycaster/cambio/250
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Paramount" tvg-logo="https://pbs.twimg.com/profile_images/1249929366353649669/c_MyBiGs.jpg" group-title="CINEMA PREMIUM", Paramount
+http://jagertv.us:2999/skycaster/cambio/251
+#EXTINF: -1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="FILMS ART" tvg-logo="https://pbs.twimg.com/profile_images/1115324965681868800/7ks7jt6l_400x400.png" group-title="CINEMA PREMIUM", FILMS ART
+http://jagertv.us:2999/skycaster/cambio/252
+#EXTINF: -1 tvg-id="I362.91183.schedulesdirect.org" tvg-name="MOVISTAR ACCION" group-title="CINEMA PREMIUM", MOVISTAR ACCION
+http://jagertv.us:2999/skycaster/cambio/36605
+#EXTINF: -1 tvg-id="I366.91184.schedulesdirect.org" tvg-name="MOVISTAR COMEDIA" group-title="CINEMA PREMIUM", MOVISTAR COMEDIA
+http://jagertv.us:2999/skycaster/cambio/36606
+#EXTINF: -1 tvg-name="MOVISTAR DCINE" group-title="CINEMA PREMIUM", MOVISTAR DCINE
+http://jagertv.us:2999/skycaster/cambio/36607
+#EXTINF: -1 tvg-name="MOVISTAR DISNEY" group-title="CINEMA PREMIUM", MOVISTAR DISNEY
+http://jagertv.us:2999/skycaster/cambio/36608
+#EXTINF: -1 tvg-id="I375.87011.schedulesdirect.org" tvg-name="MOVISTAR DRAMA" group-title="CINEMA PREMIUM", MOVISTAR DRAMA
+http://jagertv.us:2999/skycaster/cambio/36609
+#EXTINF: -1 tvg-name="MOVISTAR ESTRENOS" group-title="CINEMA PREMIUM", MOVISTAR ESTRENOS
+http://jagertv.us:2999/skycaster/cambio/36610
+#EXTINF: -1 tvg-name="MOVISTAR SERIEMANIA" group-title="CINEMA PREMIUM", MOVISTAR SERIEMANIA
+http://jagertv.us:2999/skycaster/cambio/36611
+#EXTINF: -1 tvg-name="CINE| A ESTRENAR FHD" group-title="CINEMA PREMIUM", CINE| A ESTRENAR FHD
+http://jagertv.us:2999/skycaster/cambio/36734
+#EXTINF: -1 tvg-name="NETFLIX LATINO 1 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 1 HD
+http://jagertv.us:2999/skycaster/cambio/36735
+#EXTINF: -1 tvg-name="NETFLIX LATINO 2 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 2 HD
+http://jagertv.us:2999/skycaster/cambio/36736
+#EXTINF: -1 tvg-name="NETFLIX LATINO 3 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 3 HD
+http://jagertv.us:2999/skycaster/cambio/36737
+#EXTINF: -1 tvg-name="NETFLIX LATINO 4 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 4 HD
+http://jagertv.us:2999/skycaster/cambio/36738
+#EXTINF: -1 tvg-name="NETFLIX LATINO 5 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 5 HD
+http://jagertv.us:2999/skycaster/cambio/36739
+#EXTINF: -1 tvg-name="NETFLIX LATINO 6 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 6 HD
+http://jagertv.us:2999/skycaster/cambio/36740
+#EXTINF: -1 tvg-name="NETFLIX LATINO 7 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 7 HD
+http://jagertv.us:2999/skycaster/cambio/36741
+#EXTINF: -1 tvg-name="NETFLIX LATINO 8 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 8 HD
+http://jagertv.us:2999/skycaster/cambio/36742
+#EXTINF: -1 tvg-name="NETFLIX LATINO 9 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 9 HD
+http://jagertv.us:2999/skycaster/cambio/36743
+#EXTINF: -1 tvg-name="NETFLIX LATINO 10 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 10 HD
+http://jagertv.us:2999/skycaster/cambio/36744
+#EXTINF: -1 tvg-name="NETFLIX LATINO 11 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 11 HD
+http://jagertv.us:2999/skycaster/cambio/36745
+#EXTINF: -1 tvg-name="NETFLIX LATINO 12 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 12 HD
+http://jagertv.us:2999/skycaster/cambio/36746
+#EXTINF: -1 tvg-name="NETFLIX LATINO 13 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 13 HD
+http://jagertv.us:2999/skycaster/cambio/36747
+#EXTINF: -1 tvg-name="NETFLIX LATINO 14 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 14 HD
+http://jagertv.us:2999/skycaster/cambio/36748
+#EXTINF: -1 tvg-name="NETFLIX LATINO 15 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 15 HD
+http://jagertv.us:2999/skycaster/cambio/36749
+#EXTINF: -1 tvg-name="NETFLIX LATINO 16 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 16 HD
+http://jagertv.us:2999/skycaster/cambio/36750
+#EXTINF: -1 tvg-name="NETFLIX LATINO 17 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 17 HD
+http://jagertv.us:2999/skycaster/cambio/36751
+#EXTINF: -1 tvg-name="NETFLIX LATINO 18 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 18 HD
+http://jagertv.us:2999/skycaster/cambio/36752
+#EXTINF: -1 tvg-name="NETFLIX LATINO 19 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 19 HD
+http://jagertv.us:2999/skycaster/cambio/36753
+#EXTINF: -1 tvg-name="NETFLIX LATINO 20 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 20 HD
+http://jagertv.us:2999/skycaster/cambio/36754
+#EXTINF: -1 tvg-name="NETFLIX LATINO 21 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 21 HD
+http://jagertv.us:2999/skycaster/cambio/36755
+#EXTINF: -1 tvg-name="NETFLIX LATINO 22 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 22 HD
+http://jagertv.us:2999/skycaster/cambio/36756
+#EXTINF: -1 tvg-name="NETFLIX LATINO 23 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 23 HD
+http://jagertv.us:2999/skycaster/cambio/36757
+#EXTINF: -1 tvg-name="NETFLIX LATINO 24 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 24 HD
+http://jagertv.us:2999/skycaster/cambio/36758
+#EXTINF: -1 tvg-name="NETFLIX LATINO 25 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 25 HD
+http://jagertv.us:2999/skycaster/cambio/36759
+#EXTINF: -1 tvg-name="NETFLIX LATINO 26 HD" group-title="CINEMA PREMIUM", NETFLIX LATINO 26 HD
+http://jagertv.us:2999/skycaster/cambio/36760
+#EXTINF: -1 tvg-name="CINE| CINEBOX ACTION" group-title="CINEMA PREMIUM", CINE| CINEBOX ACTION
+http://jagertv.us:2999/skycaster/cambio/36775
+#EXTINF: -1 tvg-name="CINE| CINEBOX  ANIMATION" group-title="CINEMA PREMIUM", CINE| CINEBOX  ANIMATION
+http://jagertv.us:2999/skycaster/cambio/36776
+#EXTINF: -1 tvg-name="CINE| CINEBOX BLOCKBUSTER" group-title="CINEMA PREMIUM", CINE| CINEBOX BLOCKBUSTER
+http://jagertv.us:2999/skycaster/cambio/36777
+#EXTINF: -1 tvg-name="CINE| CINEBOX CLASSICS" group-title="CINEMA PREMIUM", CINE| CINEBOX CLASSICS
+http://jagertv.us:2999/skycaster/cambio/36778
+#EXTINF: -1 tvg-name="CINE| CINEBOX COMEDY" group-title="CINEMA PREMIUM", CINE| CINEBOX COMEDY
+http://jagertv.us:2999/skycaster/cambio/36779
+#EXTINF: -1 tvg-name="CINE| CINEBOX CULT" group-title="CINEMA PREMIUM", CINE| CINEBOX CULT
+http://jagertv.us:2999/skycaster/cambio/36780
+#EXTINF: -1 tvg-name="CINE| CINEBOX FAMILY" group-title="CINEMA PREMIUM", CINE| CINEBOX FAMILY
+http://jagertv.us:2999/skycaster/cambio/36781
+#EXTINF: -1 tvg-name="CINE| CINEBOX GREATS" group-title="CINEMA PREMIUM", CINE| CINEBOX GREATS
+http://jagertv.us:2999/skycaster/cambio/36782
+#EXTINF: -1 tvg-name="CINE| CINEBOX GREATS 2" group-title="CINEMA PREMIUM", CINE| CINEBOX GREATS 2
+http://jagertv.us:2999/skycaster/cambio/36783
+#EXTINF: -1 tvg-name="CINE| CINEBOX HISTORICAL" group-title="CINEMA PREMIUM", CINE| CINEBOX HISTORICAL
+http://jagertv.us:2999/skycaster/cambio/36784
+#EXTINF: -1 tvg-name="CINE| CINEBOX MUSICAL" group-title="CINEMA PREMIUM", CINE| CINEBOX MUSICAL
+http://jagertv.us:2999/skycaster/cambio/36785
+#EXTINF: -1 tvg-id="azcorazon.mx" tvg-name="AZ CORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="MEXICO", AZ CORAZON
+http://jagertv.us:2999/skycaster/cambio/23
+#EXTINF: -1 tvg-id="aztecamundo.mx" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="MEXICO", AZ MUNDO
+http://jagertv.us:2999/skycaster/cambio/24
+#EXTINF: -1 tvg-name="AZTECA 1" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg" group-title="MEXICO", AZTECA 1
+http://jagertv.us:2999/skycaster/cambio/25
+#EXTINF: -1 tvg-id="azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO", AZTECA 7
+http://jagertv.us:2999/skycaster/cambio/26
+#EXTINF: -1 tvg-id="canal11.mx" tvg-name="CANAL ONCE" tvg-logo="https://hobbitmemes.com/wp-content/uploads/2020/10/1-24.png" group-title="MEXICO", CANAL ONCE
+http://jagertv.us:2999/skycaster/cambio/31
+#EXTINF: -1 tvg-id="canal5.mx" tvg-name="CANAL 5" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg" group-title="MEXICO", CANAL 5
+http://jagertv.us:2999/skycaster/cambio/32
+#EXTINF: -1 tvg-id="lasestrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="MEXICO", LAS ESTRELLAS
+http://jagertv.us:2999/skycaster/cambio/33
+#EXTINF: -1 tvg-id="forotv.mx" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", FORO TV
+http://jagertv.us:2999/skycaster/cambio/68
+#EXTINF: -1 tvg-name="IMAGEN " tvg-logo="https://www.amedi.org.mx/wp-content/uploads/2016/10/programacion-imagen-television.jpg" group-title="MEXICO", IMAGEN
+http://jagertv.us:2999/skycaster/cambio/94
+#EXTINF: -1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="MEXICO", MEXIQUENSE
+http://jagertv.us:2999/skycaster/cambio/99
+#EXTINF: -1 tvg-name="MULTIMEDIOS MTY" tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="MEXICO", MULTIMEDIOS MTY
+http://jagertv.us:2999/skycaster/cambio/100
+#EXTINF: -1 tvg-name="TELEVISA MONTEREY" tvg-logo="https://pbs.twimg.com/profile_images/2993096545/9174c7c03ee8ab19a9faa34e1a39a301_400x400.jpeg" group-title="MEXICO", TELEVISA MONTEREY
+http://jagertv.us:2999/skycaster/cambio/613
+#EXTINF: -1 tvg-id="746fa.cl" tvg-name="Film And Arts" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="MEXICO", Film And Arts
+http://jagertv.us:2999/skycaster/cambio/615
+#EXTINF: -1 tvg-name="RCG SALTILLO" tvg-logo="https://pbs.twimg.com/profile_images/1306993035683692548/oCx-oPQf_400x400.jpg" group-title="MEXICO", RCG SALTILLO
+http://jagertv.us:2999/skycaster/cambio/618
+#EXTINF: -1 tvg-id="sextreme.co" tvg-name="EXTREMA X" tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png" group-title="MEXICO", EXTREMA X
+http://jagertv.us:2999/skycaster/cambio/619
+#EXTINF: -1 tvg-name="CANAL 10 CANCUN" tvg-logo="https://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="MEXICO", CANAL 10 CANCUN
+http://jagertv.us:2999/skycaster/cambio/620
+#EXTINF: -1 tvg-name="CANAL 4 SALTILLO" tvg-logo="https://rincontv.com/storage/app/uploads/public/5e6/62d/df6/5e662ddf6ce8e337475954.jpg" group-title="MEXICO", CANAL 4 SALTILLO
+http://jagertv.us:2999/skycaster/cambio/621
+#EXTINF: -1 tvg-name="PRESUMIENDO MEXICO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/714Zmt-qXcL.png" group-title="MEXICO", PRESUMIENDO MEXICO
+http://jagertv.us:2999/skycaster/cambio/622
+#EXTINF: -1 tvg-name="INGENIO TV" tvg-logo="https://www.mexicoescultura.com/images/tv-ingenio.jpg" group-title="MEXICO", INGENIO TV
+http://jagertv.us:2999/skycaster/cambio/623
+#EXTINF: -1 tvg-name="A+" group-title="MEXICO", A+
+http://jagertv.us:2999/skycaster/cambio/36286
+#EXTINF: -1 tvg-name="MEXICO | MULTIMEDIOS TORREON" group-title="MEXICO", MEXICO | MULTIMEDIOS TORREON
+http://jagertv.us:2999/skycaster/cambio/37947
+#EXTINF: -1 tvg-name="MEXICO | RCG" group-title="MEXICO", MEXICO | RCG
+http://jagertv.us:2999/skycaster/cambio/37948
+#EXTINF: -1 tvg-name="MEXICO | RCG 2" group-title="MEXICO", MEXICO | RCG 2
+http://jagertv.us:2999/skycaster/cambio/37949
+#EXTINF: -1 tvg-name="MEXICO | RCG 3" group-title="MEXICO", MEXICO | RCG 3
+http://jagertv.us:2999/skycaster/cambio/37950
+#EXTINF: -1 tvg-name="MEXICO | CANAL 6 NRT" group-title="MEXICO", MEXICO | CANAL 6 NRT
+http://jagertv.us:2999/skycaster/cambio/37951
+#EXTINF: -1 tvg-name="MEXICO | CANAL 24 NRT" group-title="MEXICO", MEXICO | CANAL 24 NRT
+http://jagertv.us:2999/skycaster/cambio/37952
+#EXTINF: -1 tvg-name="MEXICO | TV MAS" group-title="MEXICO", MEXICO | TV MAS
+http://jagertv.us:2999/skycaster/cambio/37954
+#EXTINF: -1 tvg-name="MEXICO | ULTRA PUEBLA" group-title="MEXICO", MEXICO | ULTRA PUEBLA
+http://jagertv.us:2999/skycaster/cambio/37957
+#EXTINF: -1 tvg-name="MEXICO | TELEMAX" group-title="MEXICO", MEXICO | TELEMAX
+http://jagertv.us:2999/skycaster/cambio/37959
+#EXTINF: -1 tvg-name="MEXICO | CANAL 10 NOTICIAS" group-title="MEXICO", MEXICO | CANAL 10 NOTICIAS
+http://jagertv.us:2999/skycaster/cambio/37960
+#EXTINF: -1 tvg-name="MEXICO | JALISCO TV" group-title="MEXICO", MEXICO | JALISCO TV
+http://jagertv.us:2999/skycaster/cambio/37961
+#EXTINF: -1 tvg-id="I385.16497.schedulesdirect.org" tvg-name="I - SAT" group-title="MEXICO", I - SAT
+http://jagertv.us:2999/skycaster/cambio/137064
+#EXTINF: -1 tvg-name="MULTIMEDIOS" group-title="MEXICO", MULTIMEDIOS
+http://jagertv.us:2999/skycaster/cambio/137095
+#EXTINF: -1 tvg-name="AZ CLICK" group-title="MEXICO", AZ CLICK
+http://jagertv.us:2999/skycaster/cambio/137100
+#EXTINF: -1 tvg-name="NU9VE" group-title="MEXICO", NU9VE
+http://jagertv.us:2999/skycaster/cambio/137101
+#EXTINF: -1 tvg-name="Excélsior TV" group-title="MEXICO", Excélsior TV
+http://jagertv.us:2999/skycaster/cambio/137102
+#EXTINF: -1 tvg-name="CANAL 26." group-title="MEXICO", CANAL 26.
+http://jagertv.us:2999/skycaster/cambio/137103
+#EXTINF: -1 tvg-name="Canal 11." group-title="MEXICO", Canal 11.
+http://jagertv.us:2999/skycaster/cambio/137409
+#EXTINF: -1 tvg-id="13C.cl" tvg-name="MEX-Afizzionados (X)(720)" tvg-logo="https://lh3.googleusercontent.com/-Xpl_D0TIJe8/YkypGR0m1lI/AAAAAAAADec/wDEMuWaHD20UTpRzLbkROLBMiEikEC5CACNcBGAsYHQ/w200-h200/1649191192417412-0.png" group-title="MEXICO", MEX-Afizzionados (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153303
+#EXTINF: -1 tvg-name="MEX-Afizzionados (C)(720)" tvg-logo="http://tv.proyectox.vip:28000/images/de108223a6457e491792b201255d3091.png" group-title="MEXICO", MEX-Afizzionados (C)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/115776
+#EXTINF: -1 tvg-name="MEX-Lo Mejor De La Liga MX (X)(720)" tvg-logo="https://lh3.googleusercontent.com/-8sq9v9VetzU/YrOrsO__dvI/AAAAAAAADqs/_2halnO-pKwVDRs5gEtbEsc1UReFu3k5ACNcBGAsYHQ/w200-h200/1655942062524447-0.png" group-title="MEXICO", MEX-Lo Mejor De La Liga MX (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/154354
+#EXTINF: -1 tvg-name="MEX-Lo Mejor De La Liga MX (X)(SD)" tvg-logo="https://lh3.googleusercontent.com/-8sq9v9VetzU/YrOrsO__dvI/AAAAAAAADqs/_2halnO-pKwVDRs5gEtbEsc1UReFu3k5ACNcBGAsYHQ/w200-h200/1655942062524447-0.png" group-title="MEXICO", MEX-Lo Mejor De La Liga MX (X)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/154355
+#EXTINF: -1 tvg-id="ClaroSports.co" tvg-name="MEX-Claro Sports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="MEXICO", MEX-Claro Sports (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/22141
+#EXTINF: -1 tvg-id="AymSports.mx" tvg-name="MEX-Aym Sports (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-e9y9a28jbXM/Xg-MrwQCrJI/AAAAAAAAA6I/pOByATddwpU3laULegV5jkTZjwE2gqxIACLcBGAsYHQ/s200/24.png" group-title="MEXICO", MEX-Aym Sports (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26700
+#EXTINF: -1 tvg-name="MEX-A+ (C)(720)" tvg-logo="https://1.bp.blogspot.com/-CPfX_QtjfdM/X3JHdum4NiI/AAAAAAAABlQ/8hxqMan4cGMlgryah9VcPZG-lPiQTrepgCLcBGAsYHQ/w200-h200/A%252B%2BMEX.png" group-title="MEXICO", MEX-A+ (C)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/59685
+#EXTINF: -1 tvg-id="ADN40.mx" tvg-name="MEX-ADN 40 (X)(SD)" tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png" group-title="MEXICO", MEX-ADN 40 (X)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26681
+#EXTINF: -1 tvg-id="ADN40.mx" tvg-name="MEX-ADN 40(M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png" group-title="MEXICO", MEX-ADN 40(M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1358
+#EXTINF: -1 tvg-id="Antena3.es" tvg-name="MEX-Antena 3 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-3eU7xslEFZk/Xm524xBc-gI/AAAAAAAABig/BnpS_TTJdvkN7ws9druV4X2ZqZmEtPN9wCLcBGAsYHQ/s200/28.png" group-title="MEXICO", MEX-Antena 3 (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26951
+#EXTINF: -1 tvg-id="Antena3.es" tvg-name="MEX-Antena 3 (X)(720)" tvg-logo="https://1.bp.blogspot.com/-3eU7xslEFZk/Xm524xBc-gI/AAAAAAAABig/BnpS_TTJdvkN7ws9druV4X2ZqZmEtPN9wCLcBGAsYHQ/s200/28.png" group-title="MEXICO", MEX-Antena 3 (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26715
+#EXTINF: -1 tvg-id="AZCinema.mx" tvg-name="MEX-Az Cinema (M)(1080)" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png" group-title="MEXICO", MEX-Az Cinema (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26963
+#EXTINF: -1 tvg-id="AZClic.mx" tvg-name="MEX-Az Clic (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png" group-title="MEXICO", MEX-Az Clic (X)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26955
+#EXTINF: -1 tvg-id="AZClic.mx" tvg-name="MEX-Az Clic (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png" group-title="MEXICO", MEX-Az Clic (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26691
+#EXTINF: -1 tvg-id="AZMundo.mx" tvg-name="MEX-Az Mundo (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png" group-title="MEXICO", MEX-Az Mundo (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26982
+#EXTINF: -1 tvg-id="AZMundo.mx" tvg-name="MEX-AZ Mundo (M)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/200px-TV_Azteca_Mundo_logo.svg.png" group-title="MEXICO", MEX-AZ Mundo (M)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153550
+#EXTINF: -1 tvg-id="AZMundo.mx" tvg-name="MEX-Az Mundo (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png" group-title="MEXICO", MEX-Az Mundo (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26703
+#EXTINF: -1 tvg-id="AztecaUno.mx" tvg-name="MEX-Azteca 1 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO", MEX-Azteca 1 (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1329
+#EXTINF: -1 tvg-id="AztecaUno.mx" tvg-name="MEX-Azteca 1 (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO", MEX-Azteca 1 (PM)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1881
+#EXTINF: -1 tvg-id="Azteca7.mx" tvg-name="MEX-Azteca 7 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO", MEX-Azteca 7 (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1330
+#EXTINF: -1 tvg-id="Azteca7.mx" tvg-name="MEX-Azteca 7 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO", MEX-Azteca 7 (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26680
+#EXTINF: -1 tvg-id="Azteca7.mx" tvg-name="MEX-Azteca 7 (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO", MEX-Azteca 7 (PM)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1882
+#EXTINF: -1 tvg-id="AZClic.mx" tvg-name="MEX-Azteca Clic (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png" group-title="MEXICO", MEX-Azteca Clic (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1335
+#EXTINF: -1 tvg-id="AzCorazon.mx" tvg-name="MEX-Azteca Corazon (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png" group-title="MEXICO", MEX-Azteca Corazon (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1332
+#EXTINF: -1 tvg-id="AzCorazon.mx" tvg-name="MEX-AZ Corazon (X)(1080)" tvg-logo="https://static.epg.best/mx/AzCorazon.mx.png" group-title="MEXICO", MEX-AZ Corazon (X)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153539
+#EXTINF: -1 tvg-name="MEX-Az Corazón (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png" group-title="MEXICO", MEX-Az Corazón (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26687
+#EXTINF: -1 tvg-id="AZCinema.mx" tvg-name="MEX-Az Cinema (M)(SD)" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png" group-title="MEXICO", MEX-Az Cinema (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26734
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO", MEX-Las Estrellas (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26945
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas (X)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO", MEX-Las Estrellas (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153528
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO", MEX-Las Estrellas (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26677
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas -2h (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO", MEX-Las Estrellas -2h (PM)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1885
+#EXTINF: -1 tvg-name="MEX-Estrellas News (X)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/250px-Estrella_TV_2020_Logo.svg.png" group-title="MEXICO", MEX-Estrellas News (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153533
+#EXTINF: -1 tvg-id="BloombergTV.mx" tvg-name="MEX-Bloomberg (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-03CaQgAcjpc/Xm5ywyaHEwI/AAAAAAAABhU/fe1Lwkx-om0RJZnr6qS0YIfL2sg7fzgQgCLcBGAsYHQ/s200/23.png" group-title="MEXICO", MEX-Bloomberg (X)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26957
+#EXTINF: -1 tvg-id="Viceland.uk" tvg-name="MEX-Canal 26 (M)(1080)" tvg-logo="http://tv.proyectox.vip:28000/images/d82c8d1619ad8176d665453cfb2e55f0.png" group-title="MEXICO", MEX-Canal 26 (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1339
+#EXTINF: -1 tvg-id="Quest.uk" tvg-name="MEX-Canal 26(M)(SD)" tvg-logo="https://1.bp.blogspot.com/-KSkiCyS_jpo/Xm7ep11FsRI/AAAAAAAABpk/Rr8OZugY3EMbKOT6fPFoI6sr7eCfwwRLACLcBGAsYHQ/s200/53.png" group-title="MEXICO", MEX-Canal 26(M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1340
+#EXTINF: -1 tvg-name="MEX-Canal 5 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO", MEX-Canal 5 (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26973
+#EXTINF: -1 tvg-name="MEX-Canal 5 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO", MEX-Canal 5 (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26678
+#EXTINF: -1 tvg-id="5Nacional.mx" tvg-name="MEX-Canal 5 (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO", MEX-Canal 5 (PM)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1883
+#EXTINF: -1 tvg-name="MEX-Canal Once(M)(1080)" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="MEXICO", MEX-Canal Once(M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1343
+#EXTINF: -1 tvg-id="CinemaDinamita.co" tvg-name="MEX-Cinema Dinamita (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-jR8nphDOHss/X3JHd8b7uDI/AAAAAAAABlU/SssqOjOaBaYhGhzhx1FlQo-_XrUJ_aeZgCLcBGAsYHQ/w200-h200/Cinema%2Bdinamita.png" group-title="MEXICO", MEX-Cinema Dinamita (TV)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/59686
+#EXTINF: -1 tvg-id="ComedyCentral.mx" tvg-name="MEX-Comedy Central (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="MEXICO", MEX-Comedy Central (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26719
+#EXTINF: -1 tvg-name="MEX-DW (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="MEXICO", MEX-DW (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26732
+#EXTINF: -1 tvg-name="MEX-El Financiero (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-fPpj9p5VRB0/Xm5wYpCGrcI/AAAAAAAABgs/bjFPTDBI_y8RKSx0h507QlkPLVNDnWUswCLcBGAsYHQ/s200/21.png" group-title="MEXICO", MEX-El Financiero (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26961
+#EXTINF: -1 tvg-id="BloombergTV.mx" tvg-name="MEX-El Financiero Bloomberg (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-apx9Di-xHJM/Xm6zVXRpOnI/AAAAAAAABmY/fLo91xzoCjEJf2TdmBIqfwyc0Z-1WBjtgCLcBGAsYHQ/s200/42.png" group-title="MEXICO", MEX-El Financiero Bloomberg (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26699
+#EXTINF: -1 tvg-name="MEX-Formula Noticias(M)(720)" tvg-logo="https://1.bp.blogspot.com/-xo2Pq2vsRu8/Xm7X6YXRb0I/AAAAAAAABo0/teIBNoDHrqYbaCEbxX1dSp_QOVvxB5KFACLcBGAsYHQ/s200/51.png" group-title="MEXICO", MEX-Formula Noticias(M)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1361
+#EXTINF: -1 tvg-id="ForoTv.mx" tvg-name="MEX-Foro TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-97qblKLDK5A/Xm5m0h85WuI/AAAAAAAABdg/a6PjI8WcZxIT5OOM3M8D7GdQInJ1uy5qgCLcBGAsYHQ/s200/6.png" group-title="MEXICO", MEX-Foro TV (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26979
+#EXTINF: -1 tvg-name="MEX-France 24 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-OjDmyg2Zr9s/Xm5m1NOO3kI/AAAAAAAABdo/01vk3xJaWuwxw0Uw_Z6OImUrmQpueKYGACLcBGAsYHQ/s200/8.png" group-title="MEXICO", MEX-France 24 (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26977
+#EXTINF: -1 tvg-name="MEX-France 24 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-OjDmyg2Zr9s/Xm5m1NOO3kI/AAAAAAAABdo/01vk3xJaWuwxw0Uw_Z6OImUrmQpueKYGACLcBGAsYHQ/s200/8.png" group-title="MEXICO", MEX-France 24 (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26731
+#EXTINF: -1 tvg-id="ElGarageTV.ar" tvg-name="MEX-Garage TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-y283ot09Ihc/Xm7RANtYfNI/AAAAAAAABnM/SRWTKILBpVIs98kbupZmfCTT2IheW8ceACLcBGAsYHQ/s200/46.png" group-title="MEXICO", MEX-Garage TV (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26692
+#EXTINF: -1 tvg-id="Glitz.mx" tvg-name="MEX-Glitz (C)(SD)" tvg-logo="https://1.bp.blogspot.com/-MRcqDIERLTM/XbfvG43H9QI/AAAAAAAAAtQ/2XHC7385JX8m_nqURHh6z3BXAeoz89SvgCLcBGAsYHQ/s200/55.png" group-title="MEXICO", MEX-Glitz (C)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26953
+#EXTINF: -1 tvg-id="Glitz.mx" tvg-name="MEX-Glitz (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-MRcqDIERLTM/XbfvG43H9QI/AAAAAAAAAtQ/2XHC7385JX8m_nqURHh6z3BXAeoz89SvgCLcBGAsYHQ/s200/55.png" group-title="MEXICO", MEX-Glitz (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26724
+#EXTINF: -1 tvg-id="HolaTV.us" tvg-name="MEX-Hola TV (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-pFI3jFPjagE/Xm5x__C5YzI/AAAAAAAABhA/FeA7umr497kccXsUuVWeJGdocXkpNtzVACLcBGAsYHQ/s200/22.png" group-title="MEXICO", MEX-Hola TV (X)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26958
+#EXTINF: -1 tvg-id="HolaTv.co" tvg-name="MEX-Hola TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-pFI3jFPjagE/Xm5x__C5YzI/AAAAAAAABhA/FeA7umr497kccXsUuVWeJGdocXkpNtzVACLcBGAsYHQ/s200/22.png" group-title="MEXICO", MEX-Hola TV (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26686
+#EXTINF: -1 tvg-id="ImagenTV.mx" tvg-name="MEX-Imagen TV (C)(720)" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="MEXICO", MEX-Imagen TV (C)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/58099
+#EXTINF: -1 tvg-id="IngenioTV.mx" tvg-name="MEX-Ingenio TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-XslEa9ODtnk/Xm6mRePc-WI/AAAAAAAABj4/ySQY8kuakmUPogs60eW4wmY0L6MsqrNXgCLcBGAsYHQ/s200/34.png" group-title="MEXICO", MEX-Ingenio TV (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26730
+#EXTINF: -1 tvg-name="MEX-Mexiquense (C)(720)" tvg-logo="http://tv.proyectox.vip:28000/images/d3d9446802a44259755d38e6d163e820.png" group-title="MEXICO", MEX-Mexiquense (C)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26718
+#EXTINF: -1 tvg-id="Mexicanal.us" tvg-name="MEX-Mexiquense (M)(1080)" tvg-logo="http://tv.proyectox.vip:28000/images/d3d9446802a44259755d38e6d163e820.png" group-title="MEXICO", MEX-Mexiquense (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1351
+#EXTINF: -1 tvg-id="MilenioTelevision.mx" tvg-name="MEX-Milenio TV (TV)(720)" tvg-logo="http://tv.proyectox.vip:28000/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="MEXICO", MEX-Milenio TV (TV)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26981
+#EXTINF: -1 tvg-id="MilenioTelevision.mx" tvg-name="MEX-Milenio TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png" group-title="MEXICO", MEX-Milenio TV (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1352
+#EXTINF: -1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedios CDMX (C)(720)" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png" group-title="MEXICO", MEX-Multimedios CDMX (C)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26954
+#EXTINF: -1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedios Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-f1YB7-1taFo/Xm5tPS_d4QI/AAAAAAAABgA/70ToA3StugwIp6kle6ZamNUhL8EvoiyrwCLcBGAsYHQ/s200/16.png" group-title="MEXICO", MEX-Multimedios Plus (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26967
+#EXTINF: -1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedios Monterrey (C)(720)" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png" group-title="MEXICO", MEX-Multimedios Monterrey (C)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26717
+#EXTINF: -1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedios Guadalajara  (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png" group-title="MEXICO", MEX-Multimedios Guadalajara  (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1354
+#EXTINF: -1 tvg-id="MasChicTV.mx" tvg-name="MEX-Más Chic (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-xJZbc0hvFXg/Xm7SE-8HbyI/AAAAAAAABnk/-1fm_mQwbi8H-TzKWjfka0VgbJbbd4naQCLcBGAsYHQ/s200/47.png" group-title="MEXICO", MEX-Más Chic (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26688
+#EXTINF: -1 tvg-name="MEX-Nu9ve (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-3CKK68d3N-U/Xm5wXhkIEuI/AAAAAAAABgk/DPborE5QXFkd0dFPhRZnUOwGcScZJq2rACLcBGAsYHQ/s200/18.png" group-title="MEXICO", MEX-Nu9ve (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26964
+#EXTINF: -1 tvg-id="GalaTV9Nacional.mx" tvg-name="MEX-Nu9ve (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-3CKK68d3N-U/Xm5wXhkIEuI/AAAAAAAABgk/DPborE5QXFkd0dFPhRZnUOwGcScZJq2rACLcBGAsYHQ/s200/18.png" group-title="MEXICO", MEX-Nu9ve (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/31434
+#EXTINF: -1 tvg-id="CanalOnce.mx" tvg-name="MEX-Once TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="MEXICO", MEX-Once TV (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26968
+#EXTINF: -1 tvg-name="MEX-Px Sports (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-JZsHSNlgjOY/Xm7PpThP3XI/AAAAAAAABnA/hFdXkIL_ykMU1di2t1QP-7zzcp_zzq0xQCLcBGAsYHQ/s200/45.png" group-title="MEXICO", MEX-Px Sports (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26694
+#EXTINF: -1 tvg-name="MEX-RMS(M)(720)" tvg-logo="https://1.bp.blogspot.com/-zOeQjiwf3Ws/Xm7ZAIzD1II/AAAAAAAABpA/NG0Vae1jK10moDKhd8FjR9NYvUATKdcngCLcBGAsYHQ/s200/52.png" group-title="MEXICO", MEX-RMS(M)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1360
+#EXTINF: -1 tvg-id="SundanceTV.mx" tvg-name="MEX-Sundance (X)(720)" tvg-logo="https://1.bp.blogspot.com/-QQnydDm_l-0/Xm5m1cz8CdI/AAAAAAAABds/RD9b0OTHC3QNPQ5BJgSEn99m4HS42pllgCLcBGAsYHQ/s200/9.png" group-title="MEXICO", MEX-Sundance (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26976
+#EXTINF: -1 tvg-id="SundanceTV.us" tvg-name="MEX-Sundance (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-QQnydDm_l-0/Xm5m1cz8CdI/AAAAAAAABds/RD9b0OTHC3QNPQ5BJgSEn99m4HS42pllgCLcBGAsYHQ/s200/9.png" group-title="MEXICO", MEX-Sundance (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26722
+#EXTINF: -1 tvg-id="TeleFormula.mx" tvg-name="MEX-Telefórmula (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-RUU0kvvtPsk/Xm5zycBoQ2I/AAAAAAAABhg/mcwFdLCJi-MVVQt1HK3QiaQtXwxz-751ACLcBGAsYHQ/s200/24.png" group-title="MEXICO", MEX-Telefórmula (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26956
+#EXTINF: -1 tvg-id="TeleFormula.mx" tvg-name="MEX-Telefórmula (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-RUU0kvvtPsk/Xm5zycBoQ2I/AAAAAAAABhg/mcwFdLCJi-MVVQt1HK3QiaQtXwxz-751ACLcBGAsYHQ/s200/24.png" group-title="MEXICO", MEX-Telefórmula (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26684
+#EXTINF: -1 tvg-name="MEX-Telemundo (M)(720)" tvg-logo="https://1.bp.blogspot.com/-zznJ3i27jig/Xm7W33f_2YI/AAAAAAAABoc/jTgvMxfZfKsUl9HYYo4RvBdC2X0Q16YcgCLcBGAsYHQ/s200/50.png" group-title="MEXICO", MEX-Telemundo (M)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1362
+#EXTINF: -1 tvg-name="MEX-Televisa MTY (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png" group-title="MEXICO", MEX-Televisa MTY (TV)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26984
+#EXTINF: -1 tvg-name="MEX-Televisa Puebla (M)(1080)" tvg-logo="http://tv.proyectox.vip:28000/images/98f13708210194c475687be6106a3b84.png" group-title="MEXICO", MEX-Televisa Puebla (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26962
+#EXTINF: -1 tvg-name="MEX-Televisa Puebla (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-HxMvNbzeE6U/Xm5wXn6qtoI/AAAAAAAABgg/MjSkMggWOFkXUlEuar-YsNzIDfRbvjq2gCLcBGAsYHQ/s200/20.png" group-title="MEXICO", MEX-Televisa Puebla (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26709
+#EXTINF: -1 tvg-name="MEX-Televisa Puebla (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-HxMvNbzeE6U/Xm5wXn6qtoI/AAAAAAAABgg/MjSkMggWOFkXUlEuar-YsNzIDfRbvjq2gCLcBGAsYHQ/s200/20.png" group-title="MEXICO", MEX-Televisa Puebla (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1346
+#EXTINF: -1 tvg-id="Amastv.mx" tvg-name="MEX-Amas Tv (X)(720)" tvg-logo="https://static.epg.best/mx/Amastv.mx.png" group-title="MEXICO", MEX-Amas Tv (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153529
+#EXTINF: -1 tvg-id="TeleNovelas.mx" tvg-name="MEX-TLN Novelas (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-VOrZ2xx2Je0/Xm6rTkHbMbI/AAAAAAAABkk/07Adicg4LC8IaVsyNjXoouJ4VZJdnvSLwCLcBGAsYHQ/s200/36.png" group-title="MEXICO", MEX-TLN Novelas (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26727
+#EXTINF: -1 tvg-id="TeleNovelas.mx" tvg-name="MEX-Tlnovelas (X)(SD)" tvg-logo="https://1.bp.blogspot.com/-VOrZ2xx2Je0/Xm6rTkHbMbI/AAAAAAAABkk/07Adicg4LC8IaVsyNjXoouJ4VZJdnvSLwCLcBGAsYHQ/s200/36.png" group-title="MEXICO", MEX-Tlnovelas (X)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153536
+#EXTINF: -1 tvg-id="truTV.mx" tvg-name="MEX-Tru TV (M)(1080)" tvg-logo="http://tv.proyectox.vip:28000/images/6f4922f45568161a8cdf4ad2299f6d23.png" group-title="MEXICO", MEX-Tru TV (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26960
+#EXTINF: -1 tvg-id="truTV.mx" tvg-name="MEX-Tru TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9w16hYV4mk8/Xauke2zKBSI/AAAAAAAAAgA/vylcIByzz6kPcin3nnt4EjN1I_E9DI_SQCLcBGAsYHQ/s200/18.png" group-title="MEXICO", MEX-Tru TV (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26690
+#EXTINF: -1 tvg-id="TVCuatro41.mx" tvg-name="MEX-TV 4 Guanajuato (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-HhMgUg5w7uE/Xm5m0SHm1zI/AAAAAAAABdc/TyVNpHWELl82CGstQay5d5Xdo1bnLemQACLcBGAsYHQ/s200/5.png" group-title="MEXICO", MEX-TV 4 Guanajuato (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26980
+#EXTINF: -1 tvg-id="TVC.mx" tvg-name="MEX-TVC (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-BOL52VBf-TU/Xm5tz_NgftI/AAAAAAAABgI/P1eRtJdSPageCZug75EIwQMk7_eemmdQgCLcBGAsYHQ/s200/17.png" group-title="MEXICO", MEX-TVC (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26965
+#EXTINF: -1 tvg-id="TVC.mx" tvg-name="MEX-TVC (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-BOL52VBf-TU/Xm5tz_NgftI/AAAAAAAABgI/P1eRtJdSPageCZug75EIwQMk7_eemmdQgCLcBGAsYHQ/s200/17.png" group-title="MEXICO", MEX-TVC (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26735
+#EXTINF: -1 tvg-id="TVCDeportes.mx" tvg-name="MEX-TVC Deportes (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-gNllfQCrwKA/Xm6yf1Y8OxI/AAAAAAAABmE/atJYTjeHrXIumb6ZpmlThH0zvyRlc4E1wCLcBGAsYHQ/s200/41.png" group-title="MEXICO", MEX-TVC Deportes (M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26966
+#EXTINF: -1 tvg-id="TVCDeportes.mx" tvg-name="MEX-TVC Deportes (X)(720)" tvg-logo="https://1.bp.blogspot.com/-gNllfQCrwKA/Xm6yf1Y8OxI/AAAAAAAABmE/atJYTjeHrXIumb6ZpmlThH0zvyRlc4E1wCLcBGAsYHQ/s200/41.png" group-title="MEXICO", MEX-TVC Deportes (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153537
+#EXTINF: -1 tvg-id="TVEIntAmerica.es" tvg-name="MEX-TVE (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-pa66J2QImyE/Xm6svftNZ1I/AAAAAAAABkw/_At9cnvAnREyz7eZcf9F7Df3oalp7W-dgCLcBGAsYHQ/s200/37.png" group-title="MEXICO", MEX-TVE (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26721
+#EXTINF: -1 tvg-id="SpectrumSportsNet.us" tvg-name="MEX-Unicable(M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hocv9nd9CDw/Xm5mzM7sIlI/AAAAAAAABdI/84fBjKlqLtcEulO7ow6V_x6YNRvFevQZACLcBGAsYHQ/s200/2.png" group-title="MEXICO", MEX-Unicable(M)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1365
+#EXTINF: -1 tvg-name="MEX-Unicable(M)(SD)" tvg-logo="https://1.bp.blogspot.com/-hocv9nd9CDw/Xm5mzM7sIlI/AAAAAAAABdI/84fBjKlqLtcEulO7ow6V_x6YNRvFevQZACLcBGAsYHQ/s200/2.png" group-title="MEXICO", MEX-Unicable(M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1366
+#EXTINF: -1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="MEX-Wobi TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-eewIYgEehoo/Xmv1VpJFO8I/AAAAAAAABZ4/BPjBSNwzMQQW68jCaM2IoppQQe4HWATJgCLcBGAsYHQ/s200/72.png" group-title="MEXICO", MEX-Wobi TV (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26723
+#EXTINF: -1 tvg-id="CanalOnce.mx" tvg-name="MEX-Canal Once (X)(720)" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="MEXICO", MEX-Canal Once (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153531
+#EXTINF: -1 tvg-id="DePelicula.mx" tvg-name="MEX-De Peliculas (X)(720)" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="MEXICO", MEX-De Peliculas (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153532
+#EXTINF: -1 tvg-id="ForoTv.mx" tvg-name="MEX-Foro TV (TV)(720)" tvg-logo="http://tv.proyectox.vip:28000/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="MEXICO", MEX-Foro TV (TV)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153534
+#EXTINF: -1 tvg-id="Unicable.mx" tvg-name="MEX-Unicable (X)(1080)" tvg-logo="https://static.epg.best/mx/Unicable.mx.png" group-title="MEXICO", MEX-Unicable (X)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153541
+#EXTINF: -1 tvg-name="MEX-Canal 10 Cancun (X)(LOCAL)" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg?1587752857" group-title="MEXICO", MEX-Canal 10 Cancun (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153542
+#EXTINF: -1 tvg-name="MEX-Canal 6 Nacional (X)(LOCAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", MEX-Canal 6 Nacional (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153543
+#EXTINF: -1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedio Guadalajara (X)(LOCAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png" group-title="MEXICO", MEX-Multimedio Guadalajara (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153546
+#EXTINF: -1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedio Monterrey (X)(LOCAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png" group-title="MEXICO", MEX-Multimedio Monterrey (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153547
+#EXTINF: -1 tvg-name="MEX-RTQ (X)(LOCAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ParroquiaSanSebastianen_Bernal.JPG/250px-ParroquiaSanSebastianen_Bernal.JPG" group-title="MEXICO", MEX-RTQ (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153548
+#EXTINF: -1 tvg-name="MEX-Telesistema (X)(LOCAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Telesistema_Mexicano.png" group-title="MEXICO", MEX-Telesistema (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153549
+#EXTINF: -1 tvg-name="MEX-15TV Sabinas (X)(LOCAL)" tvg-logo="https://www.m3u.cl/logo/657_15TV_Sabinas.png" group-title="MEXICO", MEX-15TV Sabinas (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153552
+#EXTINF: -1 tvg-name="MEX-Canal 7 SLP (X)(LOCAL)" tvg-logo="https://www.m3u.cl/logo/639_Canal_7_SLP.png" group-title="MEXICO", MEX-Canal 7 SLP (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153559
+#EXTINF: -1 tvg-name="MEX-AMX Noticias (X)(LOCAL)" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png" group-title="MEXICO", MEX-AMX Noticias (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153584
+#EXTINF: -1 tvg-name="MEX-UMTV (X)(LOCAL)" tvg-logo="https://www.m3u.cl/logo/641_UMTV.png" group-title="MEXICO", MEX-UMTV (X)(LOCAL)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153583
+#EXTINF: -1 tvg-id="I91.18101.schedulesdirect.org" tvg-name="BANDAMAX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="Musica", BANDAMAX
+http://jagertv.us:2999/skycaster/cambio/27
+#EXTINF: -1 tvg-name="TELEHIT" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telehit_m.png" group-title="Musica", TELEHIT
+http://jagertv.us:2999/skycaster/cambio/122
+#EXTINF: -1 tvg-name="MEDIA TV" tvg-logo="https://1.bp.blogspot.com/-SFlZAcf3th0/WV6Q-DxyEKI/AAAAAAAABKo/qGPFOCl1vRYf73FGppwABMgG0dQXKmpdACLcBGAs/s320/iptvchile.png" group-title="Musica", MEDIA TV
+http://jagertv.us:2999/skycaster/cambio/375
+#EXTINF: -1 tvg-name="Dance/EDM" tvg-logo="https://i.pinimg.com/236x/db/f9/25/dbf92537de8e7e207bd6e00b4cfb24d8.jpg" group-title="Musica", Dance/EDM
+http://jagertv.us:2999/skycaster/cambio/652
+#EXTINF: -1 tvg-name="Kidz Only!" tvg-logo="https://pbs.twimg.com/profile_images/1032326306216722432/RwcZ4mx9_400x400.jpg" group-title="Musica", Kidz Only!
+http://jagertv.us:2999/skycaster/cambio/656
+#EXTINF: -1 tvg-id="I335.11218.zap2it.com" tvg-name="VH1" tvg-logo="https://www.nacion.com/resizer/zjOa4fHTI2A4qi3UKjVatAtwYqM=/600x0/center/middle/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/KYN2WEVOOJGG3E6U6MIRQ2M5W4.png" group-title="Musica", VH1
+http://jagertv.us:2999/skycaster/cambio/673
+#EXTINF: -1 tvg-id="I335.11218.zap2it.com" tvg-name="VH1 Classic" tvg-logo="https://cdn.mitvstatic.com/channels/co_vh1-classic-usa_m.png" group-title="Musica", VH1 Classic
+http://jagertv.us:2999/skycaster/cambio/674
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MTV LIVE" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.mtv-live.png.52fc93d481dc7c44e958dad531e5f347.png" group-title="Musica", MTV LIVE
+http://jagertv.us:2999/skycaster/cambio/675
+#EXTINF: -1 tvg-id="I160.60964.schedulesdirect.org" tvg-name="MTV" tvg-logo="https://www.cubahora.cu/uploads/imagen/2020/06/26/logo-de-mtv-1980.jpg" group-title="Musica", MTV
+http://jagertv.us:2999/skycaster/cambio/676
+#EXTINF: -1 tvg-name="MELODY CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/4e4566e3fd35a76a38105cab3a39e30b17aa493a3ec2c262b9f63ed24d4bbb32.png" group-title="Musica", MELODY CHANNEL
+http://jagertv.us:2999/skycaster/cambio/677
+#EXTINF: -1 tvg-id="mtv.us" tvg-name="USA | MTV" tvg-logo="https://musica.news/wp-content/uploads/2020/05/Logo-de-MTV-1980.jpg" group-title="Musica", USA | MTV
+http://jagertv.us:2999/skycaster/cambio/1413
+#EXTINF: -1 tvg-id="vh1.us" tvg-name="USA | VH1" tvg-logo="https://i.pinimg.com/originals/cc/39/95/cc3995b238d8d8fdd3fca39af32605fe.jpg" group-title="Musica", USA | VH1
+http://jagertv.us:2999/skycaster/cambio/1473
+#EXTINF: -1 tvg-id="betjams.us" tvg-name="USA | BET Jams" group-title="Musica", USA | BET Jams
+http://jagertv.us:2999/skycaster/cambio/36292
+#EXTINF: -1 tvg-id="betsoul.us" tvg-name="USA | BET Souls" group-title="Musica", USA | BET Souls
+http://jagertv.us:2999/skycaster/cambio/36293
+#EXTINF: -1 tvg-name="MUSIC | Urban TV * | ES" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png" group-title="Musica", MUSIC | Urban TV * | ES
+http://jagertv.us:2999/skycaster/cambio/36624
+#EXTINF: -1 tvg-name="MUSIC | RCKTV * | CL" tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png" group-title="Musica", MUSIC | RCKTV * | CL
+http://jagertv.us:2999/skycaster/cambio/36625
+#EXTINF: -1 tvg-name="MUSIC | Latinos Radio * | CL" tvg-logo="https://i2.paste.pics/f5a6133c6b0fcec076105dfd2508549c.png" group-title="Musica", MUSIC | Latinos Radio * | CL
+http://jagertv.us:2999/skycaster/cambio/36628
+#EXTINF: -1 tvg-name="MUSIC | Euro Indie Music | GB" tvg-logo="https://i2.paste.pics/539f780c9e624b125cf20e6d66ec47c8.png" group-title="Musica", MUSIC | Euro Indie Music | GB
+http://jagertv.us:2999/skycaster/cambio/36629
+#EXTINF: -1 tvg-name="MUSIC | Zapping Music | CL" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png" group-title="Musica", MUSIC | Zapping Music | CL
+http://jagertv.us:2999/skycaster/cambio/36630
+#EXTINF: -1 tvg-name="MUSIC | Corazon Llanero | VE" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png" group-title="Musica", MUSIC | Corazon Llanero | VE
+http://jagertv.us:2999/skycaster/cambio/36638
+#EXTINF: -1 tvg-name="MUSIC | Maxima FM | CL" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png" group-title="Musica", MUSIC | Maxima FM | CL
+http://jagertv.us:2999/skycaster/cambio/36640
+#EXTINF: -1 tvg-name="MUSIC | Music Top | AR" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="Musica", MUSIC | Music Top | AR
+http://jagertv.us:2999/skycaster/cambio/36641
+#EXTINF: -1 tvg-name="MUSIC | The Retro Channel | PR" tvg-logo="https://lh3.googleusercontent.com/-2UEnkgDLK5U/YF8mPyKQ4dI/AAAAAAABA_M/TAGtmHfbRZwax3VsZ5bs861v4NaitIXLgCK8BGAsYHg/s512/2021-03-27.png" group-title="Musica", MUSIC | The Retro Channel | PR
+http://jagertv.us:2999/skycaster/cambio/36642
+#EXTINF: -1 tvg-name="MUSIC | Video Tour Channel | CR" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="Musica", MUSIC | Video Tour Channel | CR
+http://jagertv.us:2999/skycaster/cambio/36647
+#EXTINF: -1 tvg-name="MUSIC | Sexy Kpop TV | BR" tvg-logo="https://lh3.googleusercontent.com/-_mVYIdXLYWQ/YGuFFxxUHFI/AAAAAAABBOo/1u_EVaReRtY31sRUcng-usb7bVQ9krgKwCK8BGAsYHg/s512/2021-04-05.jpg" group-title="Musica", MUSIC | Sexy Kpop TV | BR
+http://jagertv.us:2999/skycaster/cambio/36653
+#EXTINF: -1 tvg-name="MUSIC | Vision Musica TV | PE" tvg-logo="https://lh3.googleusercontent.com/-gaitJQnLecE/YKqXiP-BdgI/AAAAAAABCgE/Z-pquANdfv01XInDHZfgDzFf27LP7LOEACK8BGAsYHg/s512/2021-05-23.png" group-title="Musica", MUSIC | Vision Musica TV | PE
+http://jagertv.us:2999/skycaster/cambio/36654
+#EXTINF: -1 tvg-name="MUSIC | Hits 360 | DO" tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png" group-title="Musica", MUSIC | Hits 360 | DO
+http://jagertv.us:2999/skycaster/cambio/36655
+#EXTINF: -1 tvg-name="MUSIC | Latin Zone TV | US" tvg-logo="https://i2.paste.pics/80e0212c6d6715e2ebdda69e5f2a6c61.png" group-title="Musica", MUSIC | Latin Zone TV | US
+http://jagertv.us:2999/skycaster/cambio/36657
+#EXTINF: -1 tvg-name="MUSIC | Nubeh TV | VE" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png" group-title="Musica", MUSIC | Nubeh TV | VE
+http://jagertv.us:2999/skycaster/cambio/36659
+#EXTINF: -1 tvg-name="MUSIC | Oxigeno Network | VE" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png" group-title="Musica", MUSIC | Oxigeno Network | VE
+http://jagertv.us:2999/skycaster/cambio/36660
+#EXTINF: -1 tvg-name="MUSIC | Panavision | VE" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png" group-title="Musica", MUSIC | Panavision | VE
+http://jagertv.us:2999/skycaster/cambio/36661
+#EXTINF: -1 tvg-name="MUSIC | Vintage Music | CR" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Musica", MUSIC | Vintage Music | CR
+http://jagertv.us:2999/skycaster/cambio/36667
+#EXTINF: -1 tvg-name="MUSIC | Soy Plancha TV | CR" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png" group-title="Musica", MUSIC | Soy Plancha TV | CR
+http://jagertv.us:2999/skycaster/cambio/36668
+#EXTINF: -1 tvg-name="MUSIC | Canal VM Latino | CR" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="Musica", MUSIC | Canal VM Latino | CR
+http://jagertv.us:2999/skycaster/cambio/36669
+#EXTINF: -1 tvg-name="MUSIC | Cadena Elite | ES" tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png" group-title="Musica", MUSIC | Cadena Elite | ES
+http://jagertv.us:2999/skycaster/cambio/36670
+#EXTINF: -1 tvg-name="MUSIC | Fabulosa FM | ES" tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png" group-title="Musica", MUSIC | Fabulosa FM | ES
+http://jagertv.us:2999/skycaster/cambio/36671
+#EXTINF: -1 tvg-name="MUSIC | Molahits TV | ES" tvg-logo="https://i2.paste.pics/46fdcecaa7fc4ca2f236df0d8a4df6a6.png" group-title="Musica", MUSIC | Molahits TV | ES
+http://jagertv.us:2999/skycaster/cambio/36672
+#EXTINF: -1 tvg-name="MUSIC | Solobailalo TV | CL" tvg-logo="https://i2.paste.pics/d96b857f73a9ce281cdef4e11766eddd.png" group-title="Musica", MUSIC | Solobailalo TV | CL
+http://jagertv.us:2999/skycaster/cambio/36675
+#EXTINF: -1 tvg-name="MUSIC | VClassicTV | CL" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="Musica", MUSIC | VClassicTV | CL
+http://jagertv.us:2999/skycaster/cambio/36677
+#EXTINF: -1 tvg-name="MUSIC | Freestyledjs | CL" tvg-logo="https://i2.paste.pics/d7192184924772147bbeed4fffde3680.png" group-title="Musica", MUSIC | Freestyledjs | CL
+http://jagertv.us:2999/skycaster/cambio/36678
+#EXTINF: -1 tvg-name="RITMOSON" group-title="Musica", RITMOSON
+http://jagertv.us:2999/skycaster/cambio/137362
+#EXTINF: -1 tvg-id="I119.55719.schedulesdirect.org" tvg-name="BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title="NIÑOS", BOOMERANG
+http://jagertv.us:2999/skycaster/cambio/30
+#EXTINF: -1 tvg-id="I114.16141.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="NIÑOS", CARTOON NETWORK
+http://jagertv.us:2999/skycaster/cambio/35
+#EXTINF: -1 tvg-id="I186.45955.schedulesdirect.org" tvg-name="DISCOVERY KIDS " tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" group-title="NIÑOS", DISCOVERY KIDS
+http://jagertv.us:2999/skycaster/cambio/48
+#EXTINF: -1 tvg-id="I318.19234.schedulesdirect.org" tvg-name="DISNEY CHANNEL" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/1280px-disney-channel-logosvg_gyjq.png" group-title="NIÑOS", DISNEY CHANNEL
+http://jagertv.us:2999/skycaster/cambio/54
+#EXTINF: -1 tvg-id="I196.61311.schedulesdirect.org" tvg-name="DISNEY JR" tvg-logo="http://bulltv.us/logoscanales/disneyjr.jpg" group-title="NIÑOS", DISNEY JR
+http://jagertv.us:2999/skycaster/cambio/55
+#EXTINF: -1 tvg-id="I292.18279.zap2it.com" tvg-name="DISNEY XD" tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="NIÑOS", DISNEY XD
+http://jagertv.us:2999/skycaster/cambio/56
+#EXTINF: -1 tvg-id="I299.11006.zap2it.com" tvg-name="NICK" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="NIÑOS", NICK
+http://jagertv.us:2999/skycaster/cambio/105
+#EXTINF: -1 tvg-id="I301.82649.zap2it.com" tvg-name=" NICK JR" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="NIÑOS", NICK JR
+http://jagertv.us:2999/skycaster/cambio/106
+#EXTINF: -1 tvg-id="nicktoons.us" tvg-name="NICKTOONS" tvg-logo="https://kafkadesk.org/wp-content/uploads/2019/09/nicktoons-czech-republic.jpg" group-title="NIÑOS", NICKTOONS
+http://jagertv.us:2999/skycaster/cambio/107
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="NIÑOS", Tooncast
+http://jagertv.us:2999/skycaster/cambio/376
+#EXTINF: -1 tvg-id="babyfirst.us" tvg-name="BABY FIRTS" tvg-logo="https://i.blogs.es/b808d8/baby_first_tv/450_1000.jpg" group-title="NIÑOS", BABY FIRTS
+http://jagertv.us:2999/skycaster/cambio/377
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="NICKELODEON" tvg-logo="https://www.plexcollectionposters.com/images/2019/03/11/Nickelodeonb34d161fdb16ee60.png" group-title="NIÑOS", NICKELODEON
+http://jagertv.us:2999/skycaster/cambio/379
+#EXTINF: -1 tvg-id="I824.56036.schedulesdirect.org" tvg-name="BABY TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="NIÑOS", BABY TV
+http://jagertv.us:2999/skycaster/cambio/380
+#EXTINF: -1 tvg-id="boing.sp" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Boing_2020.png" group-title="NIÑOS", BOING
+http://jagertv.us:2999/skycaster/cambio/382
+#EXTINF: -1 tvg-name="PAKA PAKA " tvg-logo="https://cdn.mitvstatic.com/channels/ar_pakapaka_m.png" group-title="NIÑOS", PAKA PAKA
+http://jagertv.us:2999/skycaster/cambio/20460
+#EXTINF: -1 tvg-name="INFANTIL CANAL PANDA" group-title="NIÑOS", INFANTIL CANAL PANDA
+http://jagertv.us:2999/skycaster/cambio/36274
+#EXTINF: -1 tvg-id="I602.21345.zap2it.com" tvg-name="TV GALICIA INFANTIL" group-title="NIÑOS", TV GALICIA INFANTIL
+http://jagertv.us:2999/skycaster/cambio/36276
+#EXTINF: -1 tvg-id="I95.72801.schedulesdirect.org" tvg-name="BITME" group-title="NIÑOS", BITME
+http://jagertv.us:2999/skycaster/cambio/137034
+#EXTINF: -1 tvg-name="NICK 2" group-title="NIÑOS", NICK 2
+http://jagertv.us:2999/skycaster/cambio/137410
